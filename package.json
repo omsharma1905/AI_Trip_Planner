@@ -48,13 +48,12 @@
   "description": "AI-Trip-Planner",
   "main": "eslint.config.js",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vermaadigit/AI-Trip-Planner.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vermaadigit/AI-Trip-Planner/issues"
+    "url": "https://github.com/omsharma1905/AI-Trip-Planner/issues"
   },
-  "homepage": "https://github.com/vermaadigit/AI-Trip-Planner#readme"
+  "homepage": "https://github.com/omsharma1905/AI-Trip-Planner#readme"
 }
